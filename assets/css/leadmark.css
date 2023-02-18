@@ -11626,8 +11626,9 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(../imgs/section.jpg) no-repeat center top fixed;
-  background-size: cover;
+  background: url(../myImages//YAFRASZ-01.png) no-repeat center top fixed;
+  background-size: contain;
+  background-position:50%;
   color: #fff;
 }
 
